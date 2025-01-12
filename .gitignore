@@ -4,3 +4,5 @@
 *.jpg
 *__pycache___/
 .env
+.rar
+.txt
